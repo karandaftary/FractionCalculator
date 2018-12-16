@@ -8,5 +8,5 @@ How to run the application:
 1) Compile: Runner.java
 2) Run: Runner.java <fraction expression>
 
-The program accepts input of type <operand> <operator> <operand> like 1/4 + 3/4
+The program accepts input of type {operand} {operator} {operand} like 1/4 + 3/4
 Progarm accepts mixed number 
